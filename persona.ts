@@ -108,4 +108,5 @@ export class persona {
     setTelefono(value: telefono){
         this._telefono = value;
     }
+    
 }
